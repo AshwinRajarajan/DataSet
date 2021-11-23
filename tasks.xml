@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tasks.xsl"?>
+<Tasks>
+   <task id="12">
+      <title>Buy Milk</title>
+      <notes>1 litre</notes>
+      <location>Aavin</location>
+      <deadline>2021-10-10 (20:20)</deadline>
+      <striked>true</striked>
+      <color>#FFAABB</color>
+   </task>
+   <task id="69">
+      <title>Buy Apple</title>
+      <notes>1.5KG</notes>
+      <location>Pazhamudir</location>
+      <deadline>2021-09-10 (10:20)</deadline>
+      <striked>false</striked>
+      <color>#BBAACC</color>
+   </task>
+   <task id="420">
+      <title>Do Compiler Assignment</title>
+      <notes>3</notes>
+      <location>L201</location>
+      <deadline>2021-09-10 (10:45)</deadline>
+      <striked>false</striked>
+      <color>#c3630d</color>
+   </task>
+</Tasks>
